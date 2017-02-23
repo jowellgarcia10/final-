@@ -8,8 +8,11 @@ body {
 header {
           background-color: #5c755e; 
           margin: 10px;
-          height: 100px;
+          height: 70px;
           border-radius: 20px;
+          text-align: center;
+          font-weight: bolder;
+          font-size: 3.5em;
           }
           
 nav {
@@ -42,8 +45,9 @@ aside {
 footer {
          background-color: #5c755e; 
           margin: 10px;
-          height: 60px;
+          height: 70px;
           clear: both;
+          border-radius: 5px;
           }
 
         
